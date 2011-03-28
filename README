@@ -1,0 +1,10 @@
+This is an example todo list application written with Circumflex.
+
+Installation:
+
+sbt
+...
+> update
+> jetty-run
+
+Open http://localhost:8080/
